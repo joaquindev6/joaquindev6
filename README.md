@@ -1,4 +1,4 @@
-### ¡Hola! 👋, soy Joaquin 👨‍💻 - Programador Java
+### ¡Hola! 👋, soy Joaquin 👨‍💻 - Programador backend en Java con Spring Boot
 
 <!--
 **joaquindev6/joaquindev6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
